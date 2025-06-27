@@ -25,7 +25,7 @@
 ## 🛠️ How to Install (Developer Mode)
 
 1. Download the extension from here:  
-   👉 [📦 Download ZIP]([https://github.com/your-username/snapshot-pro/archive/refs/heads/main.zip](https://github.com/gchaknalwar/snapshot-pro.git))
+   👉 [📦 Download ZIP](https://github.com/gchaknalwar/snapshot-pro/archive/refs/heads/main.zip)
 
 2. Go to `chrome://extensions` in your Chrome browser.
 
